@@ -1,0 +1,1 @@
+This dataset is a panel dataset because it includes observations across multiple geographic areas (suburbs) and multiple time periods (years). This allows analysis of both cross-sectional and time variation.

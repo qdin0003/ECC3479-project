@@ -10,3 +10,14 @@ Housing vacancy rate data from property market reports.
 
 ## Group Members
 Qi Ding
+
+# Raw Data
+
+The raw data used in this project is not included in the repository.
+
+International student data can be obtained from the Australian Department of Education:
+https://www.education.gov.au/
+
+Housing vacancy rate data can be obtained from ABS or property market reports.
+
+The data is not included because it may require downloading from external sources and may be subject to updates over time. Instructions will be provided to ensure the data can be reproduced.
