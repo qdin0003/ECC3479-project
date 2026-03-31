@@ -1,3 +1,12 @@
+"""
+This script creates an analysis-ready dataset for the project.
+
+It first attempts to read raw data from the data/raw/ folder. If the raw data
+file is not available, it generates a small sample dataset to demonstrate the
+workflow. The script then applies basic cleaning steps and saves the cleaned
+dataset to data/clean/clean_data.csv.
+"""
+
 import pandas as pd
 
 # Step 1: Define file paths
