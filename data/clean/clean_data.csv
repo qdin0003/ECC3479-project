@@ -1,5 +1,6 @@
-suburb,year,international_students,vacancy_rate
-Clayton,2020,12000,2.5
-Clayton,2021,8000,4.0
-CBD,2020,25000,1.8
-CBD,2021,15000,3.5
+year,international_students,vacancy_rate
+2021,170889,6.40
+2022,172968,2.07
+2023,216585,2.31
+2024,238464,3.33
+2025,240600,2.56
