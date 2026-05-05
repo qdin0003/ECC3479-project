@@ -1,0 +1,2 @@
+Specification,Dependent variable,Regressor,Coefficient,Standard error,N,R-squared,Standard errors
+Main OLS,Estimated Melbourne vacancy rate (%),"Victoria YTD enrolments / 100,000",0.03,1.162,24,0.0,"HAC, 1 lag"

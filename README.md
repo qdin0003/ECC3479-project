@@ -32,11 +32,12 @@ Required packages:
 
 - pandas
 - matplotlib
+- statsmodels
 
 Recommended install command:
 
 ```bash
-pip install pandas matplotlib
+pip install pandas matplotlib statsmodels
 ```
 
 ## Data Sources
@@ -145,6 +146,10 @@ Run files in this order:
 
 2. `code/eda.ipynb`  
    Runs exploratory data analysis using the updated quarterly dataset.
+
+3. `code/analysis.ipynb`  
+   Runs the main descriptive regression analysis and saves the regression table to `outputs/tables/regression_table_quarterly.csv`.
+
 
 ## Current Project Status
 
