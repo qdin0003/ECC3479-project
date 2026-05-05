@@ -1,0 +1,25 @@
+year,quarter,quarter_end_month,quarter_end_date,vic_ytd_enrolments,vic_ytd_commencements,estimated_melbourne_vacancies,estimated_melbourne_vacancy_rate_pct,student_geography,vacancy_geography,notes
+2020,Q1,Mar,2020-03-31,216681,56991,3000,4.4,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2020,Q2,Jun,2020-06-30,235433,75743,6200,8.0,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2020,Q3,Sep,2020-09-30,267172,107482,8100,10.3,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2020,Q4,Dec,2020-12-31,282720,123030,7800,9.9,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2021,Q1,Mar,2021-03-31,178296,37476,6700,8.5,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2021,Q2,Jun,2021-06-30,191882,51062,5500,7.0,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2021,Q3,Sep,2021-09-30,216280,75460,5100,6.5,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2021,Q4,Dec,2021-12-31,227220,86400,3600,4.6,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2022,Q1,Mar,2022-03-31,146792,37755,1700,2.3,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2022,Q2,Jun,2022-06-30,162309,53272,1500,2.0,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2022,Q3,Sep,2022-09-30,199990,90953,1100,1.5,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2022,Q4,Dec,2022-12-31,222329,113292,900,1.3,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2023,Q1,Mar,2023-03-31,180796,58063,800,1.1,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2023,Q2,Jun,2023-06-30,206019,83286,1600,2.1,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2023,Q3,Sep,2023-09-30,262030,139297,1700,2.2,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2023,Q4,Dec,2023-12-31,285896,163163,1400,1.9,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2024,Q1,Mar,2024-03-31,222733,66585,1000,1.3,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2024,Q2,Jun,2024-06-30,248244,92096,1500,2.1,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2024,Q3,Sep,2024-09-30,303692,147544,2100,2.7,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2024,Q4,Dec,2024-12-31,327815,171667,2000,2.7,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2025,Q1,Mar,2025-03-31,234943,59490,1500,2.0,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2025,Q2,Jun,2025-06-30,256780,81327,1700,2.1,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2025,Q3,Sep,2025-09-30,302083,126630,1700,2.2,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
+2025,Q4,Dec,2025-12-31,321923,146470,1800,2.3,VIC,Melbourne,Quarter-end YTD student data; vacancy is chart-estimated quarterly average
