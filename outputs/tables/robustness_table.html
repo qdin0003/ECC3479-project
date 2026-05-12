@@ -1,0 +1,87 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Specification</th>
+      <th>Coefficient</th>
+      <th>Std. Error</th>
+      <th>p-value</th>
+      <th>N</th>
+      <th>Significance</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Main: quarter FE</td>
+      <td>-4.852158e-06</td>
+      <td>0.000013</td>
+      <td>0.707362</td>
+      <td>24</td>
+      <td></td>
+      <td>Main specification with quarter fixed effects and HC1 robust standard errors.</td>
+    </tr>
+    <tr>
+      <td>No controls</td>
+      <td>3.025616e-07</td>
+      <td>0.000011</td>
+      <td>0.977592</td>
+      <td>24</td>
+      <td></td>
+      <td>No seasonal controls.</td>
+    </tr>
+    <tr>
+      <td>Add time trend</td>
+      <td>3.893004e-05</td>
+      <td>0.000012</td>
+      <td>0.001739</td>
+      <td>24</td>
+      <td>***</td>
+      <td>Adds a linear time trend.</td>
+    </tr>
+    <tr>
+      <td>Add commencements</td>
+      <td>5.513069e-05</td>
+      <td>0.000024</td>
+      <td>0.024246</td>
+      <td>24</td>
+      <td>**</td>
+      <td>Controls for international student commencements.</td>
+    </tr>
+    <tr>
+      <td>2022–2025 sample</td>
+      <td>5.485324e-06</td>
+      <td>0.000003</td>
+      <td>0.074818</td>
+      <td>16</td>
+      <td>*</td>
+      <td>Excludes 2020–2021 COVID-disrupted years.</td>
+    </tr>
+    <tr>
+      <td>Drop outliers</td>
+      <td>-3.027706e-05</td>
+      <td>0.000020</td>
+      <td>0.124349</td>
+      <td>17</td>
+      <td></td>
+      <td>Drops observations outside the 5th–95th percentiles of enrolments and vacancy rate.</td>
+    </tr>
+    <tr>
+      <td>Log enrolments</td>
+      <td>-6.774787e-01</td>
+      <td>2.976622</td>
+      <td>0.819957</td>
+      <td>24</td>
+      <td></td>
+      <td>Uses log(1 + enrolments) instead of enrolments in levels.</td>
+    </tr>
+    <tr>
+      <td>HC3 standard errors</td>
+      <td>-4.852158e-06</td>
+      <td>0.000015</td>
+      <td>0.748464</td>
+      <td>24</td>
+      <td></td>
+      <td>Uses HC3 robust standard errors instead of HC1.</td>
+    </tr>
+  </tbody>
+</table>

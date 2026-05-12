@@ -1,0 +1,9 @@
+Specification,Coefficient,Std. Error,p-value,N,Significance,Notes
+Main: quarter FE,-4.852158274464971e-06,1.2925270489298414e-05,0.7073623299036733,24,,Main specification with quarter fixed effects and HC1 robust standard errors.
+No controls,3.025615887383606e-07,1.077210452277003e-05,0.9775923560736629,24,,No seasonal controls.
+Add time trend,3.893004274174662e-05,1.2431334604889103e-05,0.0017385298068704907,24,***,Adds a linear time trend.
+Add commencements,5.513068581085494e-05,2.446759853146249e-05,0.024245787230173177,24,**,Controls for international student commencements.
+2022–2025 sample,5.485324192023042e-06,3.078913766042835e-06,0.07481811908187241,16,*,Excludes 2020–2021 COVID-disrupted years.
+Drop outliers,-3.0277055990756483e-05,1.9701727637902314e-05,0.12434924436327363,17,,Drops observations outside the 5th–95th percentiles of enrolments and vacancy rate.
+Log enrolments,-0.6774786628476017,2.9766215805631675,0.8199573267521993,24,,Uses log(1 + enrolments) instead of enrolments in levels.
+HC3 standard errors,-4.852158274464971e-06,1.5131541828825931e-05,0.7484641527170905,24,,Uses HC3 robust standard errors instead of HC1.
