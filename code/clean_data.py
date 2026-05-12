@@ -2,7 +2,7 @@
 Create the analysis-ready dataset for the ECC3479 project.
 
 This script reads the integrated quarterly student-vacancy dataset from
-data/raw/, applies validation and cleaning steps, and saves the final
+data/raw/, applies basic validation and cleaning steps, and saves the final
 analysis-ready dataset to data/clean/clean_data.csv.
 
 Pipeline:

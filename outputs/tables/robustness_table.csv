@@ -1,6 +1,6 @@
 ,Main OLS,Quarter FE,Add time trend,Add commencements,2022–2025 sample,Drop outliers,Log enrolments,HC3 standard errors
-Coefficient,0.000000,-0.000005,0.000039***,0.000055**,0.000005*,-0.000030,-0.677479,0.000000
-Std. Error,(0.000011),(0.000013),(0.000012),(0.000024),(0.000003),(0.000020),(2.976622),(0.000011)
+Coefficient,0.000000303,-0.000004852,0.000038930***,0.000055131**,0.000005485*,-0.000030277,-0.677478663,0.000000303
+Std. Error,(0.000010772),(0.000012925),(0.000012431),(0.000024468),(0.000003079),(0.000019702),(2.976621581),(0.000011491)
 p-value,0.978,0.707,0.002,0.024,0.075,0.124,0.820,0.979
 N,24,24,24,24,16,17,24,24
 Notes,Main primary-analysis specification with no additional controls.,Adds quarter fixed effects to control for seasonal differences.,Adds quarter fixed effects and a linear time trend.,Adds quarter fixed effects and controls for international student commencements.,Excludes 2020–2021 COVID-disrupted years.,Drops observations outside the 5th–95th percentiles of enrolments and vacancy rate.,Uses log(1 + enrolments) instead of enrolments in levels.,Uses HC3 robust standard errors for the main OLS specification.
