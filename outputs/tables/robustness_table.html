@@ -2,8 +2,8 @@
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>Main: quarter FE</th>
-      <th>No controls</th>
+      <th>Main OLS</th>
+      <th>Quarter FE</th>
       <th>Add time trend</th>
       <th>Add commencements</th>
       <th>2022–2025 sample</th>
@@ -15,36 +15,36 @@
   <tbody>
     <tr>
       <th>Coefficient</th>
-      <td>-0.000005</td>
       <td>0.000000</td>
+      <td>-0.000005</td>
       <td>0.000039***</td>
       <td>0.000055**</td>
       <td>0.000005*</td>
       <td>-0.000030</td>
       <td>-0.677479</td>
-      <td>-0.000005</td>
+      <td>0.000000</td>
     </tr>
     <tr>
       <th>Std. Error</th>
-      <td>(0.000013)</td>
       <td>(0.000011)</td>
+      <td>(0.000013)</td>
       <td>(0.000012)</td>
       <td>(0.000024)</td>
       <td>(0.000003)</td>
       <td>(0.000020)</td>
       <td>(2.976622)</td>
-      <td>(0.000015)</td>
+      <td>(0.000011)</td>
     </tr>
     <tr>
       <th>p-value</th>
-      <td>0.707</td>
       <td>0.978</td>
+      <td>0.707</td>
       <td>0.002</td>
       <td>0.024</td>
       <td>0.075</td>
       <td>0.124</td>
       <td>0.820</td>
-      <td>0.748</td>
+      <td>0.979</td>
     </tr>
     <tr>
       <th>N</th>
@@ -59,14 +59,14 @@
     </tr>
     <tr>
       <th>Notes</th>
-      <td>Main specification with quarter fixed effects and HC1 robust standard errors.</td>
-      <td>No seasonal controls.</td>
-      <td>Adds a linear time trend.</td>
-      <td>Controls for international student commencements.</td>
+      <td>Main primary-analysis specification with no additional controls.</td>
+      <td>Adds quarter fixed effects to control for seasonal differences.</td>
+      <td>Adds quarter fixed effects and a linear time trend.</td>
+      <td>Adds quarter fixed effects and controls for international student commencements.</td>
       <td>Excludes 2020–2021 COVID-disrupted years.</td>
       <td>Drops observations outside the 5th–95th percentiles of enrolments and vacancy rate.</td>
       <td>Uses log(1 + enrolments) instead of enrolments in levels.</td>
-      <td>Uses HC3 robust standard errors instead of HC1.</td>
+      <td>Uses HC3 robust standard errors for the main OLS specification.</td>
     </tr>
   </tbody>
 </table>
